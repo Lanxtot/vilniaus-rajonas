@@ -1,1 +1,2 @@
-# vilniaus-rajonas
+# Vilniaus rajono autobusų tvarkaraščiai internetu
+Nuo š.m. lapkričio 16 d. Vilniaus rajono savivaldybė piktybiškai atsisako skelbti priemiestinių autobusų tvarkaraščius Excel formatu savo svetainėje. Vietoj to, pateikiamos nuorodos į vežėjų svetaines bei siūloma atsisiųsti programėlę „Trafi“. Verta paminėti, kad tiek patys vežėjai, tiek „Trafi“ labai dažnai neatnaujina tvarkaraščių, pateikia juos nepatogiai, po vieną stotelę, įvelia klaidų bei nerodo kilometražo, pagal kurį apskaičiuojamos bilietų kainos, dėl ko jį vertinga žinoti bet kuriam žmogui, keliaujančiam Vilniaus rajono priemiestiniais autobusais nereguliariai. Atsižvelgiant į šį neracionalų sprendimą, aktualūs Vilniaus rajono autobusų tvarkaraščiai pateikiami šioje savadarbėje svetainėje.
