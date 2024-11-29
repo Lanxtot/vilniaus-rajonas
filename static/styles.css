@@ -1,0 +1,146 @@
+body {
+  background-color: whitesmoke;
+}
+
+.main {
+  margin-left: 280px;
+  margin-right: 30px;
+}
+
+.sidenav {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: royalblue;
+  overflow-x: hidden;
+  padding-top: 20px;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+.sidenav a {
+  padding: 2px 2px 6px 0px;
+  text-decoration: none;
+  text-align: center;
+  font-size: 18px;
+  display: block;
+  font-family: Helvetica, sans-serif;
+  color: white;
+
+}
+
+.sidenav a:link, a:visited {
+  color: white;
+}
+
+.sidenav a:hover, a:active {
+  color: red;
+}
+
+.sidenav p.link {
+  padding: 2px 2px 0px 0px;
+  font-size: 18px;
+  font-weight: lighter;
+  display: block;
+  font-family: Helvetica, sans-serif;
+  color: white;
+}
+
+.sidenav p.copyright {
+  color:white;
+  bottom: 0;
+  position: absolute;
+  padding-bottom: 30px;
+  font-size: 16px;
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+}
+
+
+h1 {
+  text-align: center;
+  color: white;
+  border-radius: 25px;
+  background-color: royalblue;
+  font-family: Helvetica, sans-serif;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+  border-radius: 25px;
+  margin-left: 300px;
+  margin-right: 300px;
+  background-color: royalblue;
+  font-family: Helvetica, sans-serif;
+}
+
+p {
+  color: black;
+  font-family: Helvetica, sans-serif;
+}
+
+.main a {
+  font-family: Helvetica, sans-serif;
+  color: black;
+
+}
+
+a.button {
+  background-color: royalblue;
+  border: 2px solid gray;
+  border-radius: 10px;
+  padding: 4px 4px;
+  font-size: 16px;
+  text-decoration: none;
+  cursor: pointer;
+  margin: 4px 4px;
+  display: inline-block;
+  width: auto;
+  color: white;
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+}
+
+a.button:hover, a.button:active {
+  color: white;
+}
+
+table {
+  font-family: Helvetica, sans-serif;
+	display: table;
+  background-color: rgb(235, 240, 250);
+}
+table tr {
+	display: table-cell;
+}
+table tr td {
+	display: block;
+}
+
+table, td {
+  border: 1px solid whitesmoke;
+  border-collapse: collapse;
+}
+
+td {
+  text-align: center;
+  padding: 1px 12px;
+}
+
+a:hover {
+  color: darkred;
+}
+
+a:active {
+  color: darkblue;
+} 
+
+.sidenav img {
+  display: inline-block;
+  margin-bottom: 24px;
+  border: 1px solid black;
+}
