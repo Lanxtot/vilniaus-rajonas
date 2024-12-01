@@ -78,9 +78,47 @@ h2 {
   font-family: Helvetica, sans-serif;
 }
 
+h3 {
+  color: white;
+  border-radius: 25px;
+  padding: 0px 10px;
+  width: fit-content;
+  background-color: royalblue;
+  font-family: Helvetica, sans-serif;
+}
+
 p {
   color: black;
   font-family: Helvetica, sans-serif;
+  font-size: 16px;
+}
+
+.d {
+  color: white;
+  border-radius: 5px;
+  background-color: grey;
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 2px 6px;
+}
+.d1 {
+  color: white;
+  border-radius: 5px;
+  background-color: limegreen;
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 2px 6px;
+}
+.d2 {
+  color: white;
+  border-radius: 5px;
+  background-color: red;
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 2px 6px;
 }
 
 .main a {
@@ -112,23 +150,61 @@ a.button:hover, a.button:active {
 table {
   font-family: Helvetica, sans-serif;
 	display: table;
+  white-space: nowrap;
   background-color: rgb(235, 240, 250);
-}
-table tr {
-	display: table-cell;
-}
-table tr td {
-	display: block;
 }
 
 table, td {
-  border: 1px solid whitesmoke;
+  border: 3px solid whitesmoke;
   border-collapse: collapse;
 }
 
 td {
+  font-size: 13px;
   text-align: center;
-  padding: 1px 12px;
+  padding: 0px 4px;
+}
+
+td.m {
+  font-size: 13px;
+  text-align: center;
+  padding: 0px 4px;
+  color: mediumblue;
+}
+
+td.r {
+  font-size: 13px;
+  text-align: center;
+  padding: 0px 4px;
+  color: firebrick;
+}
+
+td.t {
+  font-size: 13px;
+  text-align: center;
+  background-color: floralwhite;
+  padding: 0px 4px;
+}
+
+td.bl {
+  font-size: 11px;
+  text-align: left;
+  padding: 1px 4px;
+  background-color: whitesmoke;
+}
+
+td.br {
+  font-size: 11px;
+  text-align: right;
+  padding: 1px 4px;
+  background-color: whitesmoke;
+}
+
+th {
+  font-size: 11px;
+  text-align: center;
+  padding: 1px;
+  background-color: antiquewhite;
 }
 
 a:hover {
